@@ -45,6 +45,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#01579b",
-    "start_url": "/",
+    "start_url": "https://stark-castle-80455.herokuapp.com/",
     "display": "fullscreen"
 }
