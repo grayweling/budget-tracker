@@ -15,8 +15,8 @@ request.onsuccess = function (event) {
   }
 };
 
-request.onerror = function (e) {
-  console.log(e.target.errorCode);
+request.onerror = function (event) {
+  console.log(event.target.errorCode);
 };
 
 
